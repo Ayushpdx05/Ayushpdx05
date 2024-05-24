@@ -3,7 +3,8 @@
 <h1 align="center">Welcome, My name is Ayush Singh</h1>
 <h3 align="center">I am an aspiring Software Engineer.</h3>
 
-- I have had two internships and currently work as a part time tutor and a software engineer through **Scale AI - remotasks**
+- I have had two internships and have worked as a computer science instructor teaching programming languages which has really sparked my intrest for education!
+- I am currently doing research and working as a developer at Oregon State University!
 
 - 👯 I’m looking to collaborate on **Open source**
 
